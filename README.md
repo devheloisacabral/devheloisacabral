@@ -1,5 +1,6 @@
 <div align="center">
 <h2> Hello Dev, seja bem-vindo!! </h2>
+<p>Me chamo Heloisa, sou graduanda do curso de Engenharia de Software mas antes já subia alguns projetos dos estudos aqui. A tendencia é buscar sempre a melhora </p>
 </div>
 </br>
 <div align="center">
