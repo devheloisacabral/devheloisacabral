@@ -1,45 +1,77 @@
 <div align="center">
-<h2> Hello Dev, seja bem-vindo!! </h2>
-<p>Graduanda do curso de Engenharia de Software pela Universidade de Vassouras e Software Development Junior na DMS LOGISTIC</p>
+  <h2> Hello Dev, welcome! 👋 I'm Helô </h2>
+  <p>Software Engineering student at Universidade de Vassouras & Full Stack Developer at Next Power</p>
 </div>
-</br>
+
+<br/>
+
 <div align="center">
-  <div align="center">
-  <a href="https://github.com/devheloisacabral">
+  <p>
+    Currently, I work as a Full Stack Developer at <b>Next Power</b>, a US-based company, building solutions mainly with <b>Golang</b> and <b>Angular</b>. I am <b>fluent in English</b>, which allows me to seamlessly communicate and collaborate with my international team on a daily basis. <br/><br/>
+    In my academic journey, I'm actively researching software degradation for my thesis, titled <i>"Algorithmic Entropy: The Acceleration of Degradation in Consolidated Software Systems"</i>.
 </div>
-</br>
-  <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devheloisacabral&layout=compact&langs_count=7&theme=dark"/>
-</div>
-</div>
-</br>
- <div align="center">
-<div style="display: inline_block"><br>
-  <img align="center" alt="devheloisacabral-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="devheloisacabral-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="devheloisacabral-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="devheloisacabralCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img  align="center" alt="devheloisacabralCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="devheloisacabralCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-  <img align="center" alt="devheloisacabralCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  <img align="center" alt="devheloisacabralCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="devheloisacabralCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-  <img align="center" alt="devheloisacabralCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+
+<br/>
+
+<div align="center">
+  <h3>🛠️ Technologies & Tools</h3>
   
+  <div>
+    <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+    <img align="center" alt="TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+    <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+    <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+    <img align="center" alt="Golang" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
+  </div>
+  <br/>
   
+  <div>
+    <img align="center" alt="Angular" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+    <img align="center" alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+    <img align="center" alt="NextJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+    <img align="center" alt="NodeJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+    <img align="center" alt="Django" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
+    <img align="center" alt="FastAPI" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">
+    <img align="center" alt="Flask" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
+  </div>
+  <br/>
+
+  <div>
+    <img align="center" alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+    <img align="center" alt="Expo" height="38" src="https://img.shields.io/badge/Expo-1B1F23?style=flat-square&logo=expo&logoColor=white">
+    <img align="center" alt="Postman" height="38" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
+  </div>
 </div>
- </div>
-</br>
 
- <div align="center">
-  <a href = "mailto:heloisacabralco@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/heloisa-cabral-4a112b248/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<br/>
+
+<div align="center">
+  <h3>📊 GitHub Stats</h3>
+  <div style="display: inline-block;">
+    <a href="https://github.com/devheloisacabral">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devheloisacabral&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    </a>
+    <a href="https://github.com/devheloisacabral">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devheloisacabral&layout=compact&langs_count=7&theme=dark"/>
+    </a>
+  </div>
 </div>
-</br>
 
+<br/>
 
+<div align="center">
+  <h3>🐍 My Contributions Snake</h3>
+  <img src="https://raw.githubusercontent.com/devheloisacabral/devheloisacabral/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</div>
 
+<br/>
 
-
-![snake gif](https://github.com/devheloisacabral/devheloisacabral/blob/output/github-contribution-grid-snake.svg)
-
+<div align="center">
+  <h3>📫 Get in touch</h3>
+  <a href="mailto:heloisacabralco@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/heloisa-cabral-4a112b248/?skipRedirect=true" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a> 
+</div>
