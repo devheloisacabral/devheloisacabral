@@ -45,33 +45,4 @@
 
 <br/>
 
-<div align="center">
-  <h3>📊 GitHub Stats</h3>
-  <div style="display: inline-block;">
-    <a href="https://github.com/devheloisacabral">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devheloisacabral&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    </a>
-    <a href="https://github.com/devheloisacabral">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devheloisacabral&layout=compact&langs_count=7&theme=dark"/>
-    </a>
-  </div>
-</div>
-
 <br/>
-
-<div align="center">
-  <h3>🐍 My Contributions Snake</h3>
-  <img src="https://raw.githubusercontent.com/devheloisacabral/devheloisacabral/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</div>
-
-<br/>
-
-<div align="center">
-  <h3>📫 Get in touch</h3>
-  <a href="mailto:heloisacabralco@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/heloisa-cabral-4a112b248/?skipRedirect=true" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a> 
-</div>
